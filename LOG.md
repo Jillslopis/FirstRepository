@@ -1,1 +1,1 @@
-log1
+Second log
